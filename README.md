@@ -4,12 +4,20 @@ To install dependencies:
 
 ```bash
 bun install
+or
+npm install
+or
+pnpm install
 ```
 
 To run:
 
 ```bash
-bun run index.ts
+bun run dev
+or
+npm run dev
+or
+pnpm run dev
 ```
 
 CREATE .env with
